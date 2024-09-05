@@ -88,7 +88,7 @@ if(isset($_POST['tambah'])) {
                 <button name="tambah" class="btn">Tambah</button>
             </div>
             <div class="input-group">
-                <a href="list.php" class="btn" >List siswa</button>
+                <a href="list.php" class="btn" >Index siswa</button>
             </div>
         </form>
     </div>
